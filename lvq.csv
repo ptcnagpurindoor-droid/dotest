@@ -1,21 +1,21 @@
 papername,time,Question,Option A,Option B,Option C,Option D,Correct Answer
-History,10,Who was the first President of India?,Rajendra Prasad,Zakir Husain,Sarvepalli Radhakrishnan,V. V. Giri,A
-History,10,In which year did India gain independence?,1945,1947,1950,1965,B
-History,10,Who wrote the 'Discovery of India'?,Jawaharlal Nehru,Mahatma Gandhi,Sardar Patel,B. R. Ambedkar,A
-History,10,Which empire was ruling India during the Battle of Plassey (1757)?,Mughal Empire,Maratha Empire,British East India Company,Sikh Empire,C
-History,10,The ancient city of Mohenjo-daro belongs to which civilization?,Harappan Civilization,Vedic Civilization,Chola Civilization,Gupta Civilization,A
-History,10,Who was known as the 'Iron Man of India'?,Jawaharlal Nehru,Subhas Chandra Bose,Sardar Vallabhbhai Patel,Mahatma Gandhi,C
-History,10,What was the main language of the Mughal court?,Hindi,Persian,Urdu,Arabic,B
-History,10,Which movement was launched by Mahatma Gandhi in 1930?,Quit India Movement,Non-Cooperation Movement,Civil Disobedience Movement,Khadi Movement,C
-History,10,Who was the last Viceroy of India?,C. Rajagopalachari,Lord Mountbatten,Lord Curzon,Lord Wavell,B
-History,10,Which Indian emperor built the Qutub Minar?,Shah Jahan,Alauddin Khilji,Iltutmish,Aurangzeb,C
-History,10,The battle of Haldighati was fought between Maharana Pratap and?,Akbar,Babur,Shah Jahan,Aurangzeb,A
-History,10,Who discovered the sea route to India?,Vasco da Gama,Christopher Columbus,Ferdinand Magellan,Marco Polo,A
-History,10,The site of Nalanda University is in which state?,Bihar,Uttar Pradesh,West Bengal,Odisha,A
-History,10,Who led the Salt March in 1930?,Mahatma Gandhi,Jawaharlal Nehru,Sardar Patel,Subhas Chandra Bose,A
-History,10,The doctrine of Lapse was introduced by which Governor-General?,Lord Dalhousie,Lord Wellesley,Lord Cornwallis,Lord Bentinck,A
-History,10,Which war led to the Treaty of Versailles?,World War I,World War II,Cold War,Crimean War,A
-History,10,Who was the founder of the Mughal Empire?,Akbar,Shah Jahan,Babur,Humayun,C
-History,10,Which council set up by the British included Indian members for the first time in 1861?,Indian Councils Act,Government of India Act,Regulating Act,Charter Act,A
-History,10,Who was the principal architect of the Indian Constitution?,Rajendra Prasad,B. R. Ambedkar,Jawaharlal Nehru,C. Rajagopalachari,B
-History,10,In which year was the Non-Cooperation Movement launched?,1915,1920,1930,1942,B
+Information Technology Test,10,What does CPU stand for?,Central Process Unit,Central Processing Unit,Computer Personal Unit,Control Processing Unit,B
+Information Technology Test,10,Which device is used to input data?,Monitor,Printer,Keyboard,Speaker,C
+Information Technology Test,10,What is the brain of the computer?,RAM,Hard Drive,CPU,Mouse,C
+Information Technology Test,10,Which language is used to create web pages?,Python,C++,HTML,Java,C
+Information Technology Test,10,What does URL stand for?,Uniform Resource Locator,Universal Reference Link,User Resource Link,Unified Routing Language,A
+Information Technology Test,10,Which company developed Windows OS?,Apple,IBM,Microsoft,Google,C
+Information Technology Test,10,What is the full form of Wi-Fi?,Wireless Fidelity,Wired Fidelity,Wide Frequency,Wireless Functionality,A
+Information Technology Test,10,Which one is an operating system?,Chrome,Windows,Google,Intel,B
+Information Technology Test,10,What is used to store data permanently?,RAM,Cache,Hard Disk,ROM,C
+Information Technology Test,10,Which protocol is used to send emails?,HTTP,FTP,SMTP,TCP,C
+Information Technology Test,10,What is phishing?,A type of virus,A hacking method,A scam to steal data,A firewall bypass,C
+Information Technology Test,10,Which of these is a search engine?,Facebook,YouTube,Bing,WhatsApp,C
+Information Technology Test,10,What does HTTP stand for?,HyperText Transfer Protocol,HighText Transfer Protocol,HyperText Transmission Protocol,Hyper Transfer Text Protocol,A
+Information Technology Test,10,Which device connects a computer to a network?,Router,Monitor,Keyboard,Scanner,A
+Information Technology Test,10,What is the function of RAM?,Permanent storage,Processing,Temporary memory,Display output,C
+Information Technology Test,10,Which file extension is used for Excel files?,.docx,.xlsx,.pptx,.txt,B
+Information Technology Test,10,Which of these is a programming language?,HTML,HTTP,Java,Wi-Fi,C
+Information Technology Test,10,What is a firewall?,A physical wall,A security system,A virus,A browser extension,B
+Information Technology Test,10,Which app is used for video conferencing?,Excel,Zoom,Word,Paint,B
+Information Technology Test,10,What is cloud computing?,Using local servers,Using internet-based services,Using floppy disks,Using USB drives,B
