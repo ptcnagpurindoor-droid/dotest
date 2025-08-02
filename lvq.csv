@@ -1,21 +1,21 @@
 papername,time,Question,Option A,Option B,Option C,Option D,Correct Answer
-Cyber Awareness1,10,खालीलपैकी कोणते मजबूत पासवर्डचे उदाहरण आहे?,password123,Qwerty@123,IloveIndia,5fG$9@zLp,5fG$9@zLp
-Cyber Awareness1,10,फिशिंगचा उद्देश काय असतो?,सुरक्षा वाढवणे,संवेदनशील माहिती चोरणे,सॉफ्टवेअर अपडेट करणे,व्हायरस हटवणे,संवेदनशील माहिती चोरणे
-Cyber Awareness1,10,HTTPS चे पूर्ण रूप काय आहे?,Hypertext Transfer Protocol Secure,Hyper Text Protocol Secure,High Transfer Protocol Secure,Hypertext Transmit Secure,Hypertext Transfer Protocol Secure
-Cyber Awareness1,10,खालीलपैकी कोणते दोन स्तर प्रमाणीकरणाचे उदाहरण आहे?,फक्त पासवर्ड,फोनवर OTP,फक्त वापरकर्तानाव,कॅप्चा,फोनवर OTP
-Cyber Awareness1,10,संशयास्पद ईमेल मिळाल्यास काय करावे?,सर्व लिंक्स उघडाव्यात,दुर्लक्ष करा आणि तक्रार करा,प्रेषकास प्रत्युत्तर द्या,मित्रांना पाठवा,दुर्लक्ष करा आणि तक्रार करा
-Cyber Awareness1,10,व्हायरसपासून संगणकाचे संरक्षण करण्यासाठी काय वापरावे?,ब्राउझर,अँटीव्हायरस सॉफ्टवेअर,संगणक,कीबोर्ड,अँटीव्हायरस सॉफ्टवेअर
-Cyber Awareness1,10,स्पायवेअर म्हणजे काय?,वापरकर्त्याला मदत करणारे सॉफ्टवेअर,माहिती गोळा करणारे गुप्त सॉफ्टवेअर,संगणक जलद करणारे सॉफ्टवेअर,गेमिंग सॉफ्टवेअर,माहिती गोळा करणारे गुप्त सॉफ्टवेअर
-Cyber Awareness1,10,OTP म्हणजे काय?,One Time Password,Open Time Process,Online Text Password,Only True Password,One Time Password
-Cyber Awareness1,10,सुरक्षित संकेतशब्दात काय असावे?,फक्त अक्षरे,फक्त अंक,"अक्षरे, अंक आणि विशेष चिन्हे",फक्त नाव,"अक्षरे, अंक आणि विशेष चिन्हे"
-Cyber Awareness1,10,फेसबुकवरील कोणती माहिती खाजगी ठेवावी?,फोन नंबर,प्रोफाइल फोटो,पोस्ट,लाईक,फोन नंबर
-Cyber Awareness1,10,सायबर गुन्ह्याबाबत तक्रार कुठे करावी?,पोस्ट ऑफिस,सायबर पोलीस स्टेशन,महानगरपालिका,बँक,सायबर पोलीस स्टेशन
-Cyber Awareness1,10,सायबर गुन्ह्याचा एक प्रकार कोणता?,संगणक खरेदी,ऑनलाइन फसवणूक,टीव्ही पाहणे,मोबाइल चार्जिंग,ऑनलाइन फसवणूक
-Cyber Awareness1,10,फिशिंग ईमेल ओळखण्याचे एक लक्षण काय आहे?,सरल भाषा,अनपेक्षित लिंक,सरकारी डोमेन,विश्वसनीय प्रेषक,अनपेक्षित लिंक
-Cyber Awareness1,10,सायबर सुरक्षा काय वाढवते?,संगणकाचा वेग,डेटा संरक्षण,विजेचा वापर,प्रिंटरचा वेग,डेटा संरक्षण
-Cyber Awareness1,10,मजबूत पासवर्ड किती वेळाने बदलावा?,कधीही नको,दर 6 महिन्यांनी,दर वर्षी,दर 5 वर्षांनी,दर 6 महिन्यांनी
-Cyber Awareness1,10,फेसबुकवर कोणाला मित्र म्हणून स्वीकारावे?,सर्वांना,फक्त ओळखीचे लोक,कोणालाही,कोणतीही गरज नाही,फक्त ओळखीचे लोक
-Cyber Awareness1,10,वाईट सॉफ्टवेअर काय म्हणतात?,सुपरवेअर,मालवेअर,सॉफ्टवेअर,नेटवेअर,मालवेअर
-Cyber Awareness1,10,बँक खात्याची माहिती कोणास द्यावी?,कस्टमर केअर,फेसबुक मित्र,कोणालाही नाही,कोणत्याही कॉल सेंटरला,कोणालाही नाही
-Cyber Awareness1,10,वेबसाईट 'https://' ने सुरु होते का याची तपासणी का आवश्यक?,वेबसाईट रंग तपासण्यासाठी,सुरक्षिततेची खात्री करण्यासाठी,स्पीडसाठी,डिझाइनसाठी,सुरक्षिततेची खात्री करण्यासाठी
-Cyber Awareness1,10,सायबर जागरूकता म्हणजे काय?,केवळ संगणक वापरणे,ऑनलाइन धोके ओळखणे व त्यापासून बचाव,मोबाईल गेम खेळणे,ईमेल पाठवणे,ऑनलाइन धोके ओळखणे व त्यापासून बचाव
+History,10,Who was the first President of India?,Rajendra Prasad,Zakir Husain,Sarvepalli Radhakrishnan,V. V. Giri,A
+History,10,In which year did India gain independence?,1945,1947,1950,1965,B
+History,10,Who wrote the 'Discovery of India'?,Jawaharlal Nehru,Mahatma Gandhi,Sardar Patel,B. R. Ambedkar,A
+History,10,Which empire was ruling India during the Battle of Plassey (1757)?,Mughal Empire,Maratha Empire,British East India Company,Sikh Empire,C
+History,10,The ancient city of Mohenjo-daro belongs to which civilization?,Harappan Civilization,Vedic Civilization,Chola Civilization,Gupta Civilization,A
+History,10,Who was known as the 'Iron Man of India'?,Jawaharlal Nehru,Subhas Chandra Bose,Sardar Vallabhbhai Patel,Mahatma Gandhi,C
+History,10,What was the main language of the Mughal court?,Hindi,Persian,Urdu,Arabic,B
+History,10,Which movement was launched by Mahatma Gandhi in 1930?,Quit India Movement,Non-Cooperation Movement,Civil Disobedience Movement,Khadi Movement,C
+History,10,Who was the last Viceroy of India?,C. Rajagopalachari,Lord Mountbatten,Lord Curzon,Lord Wavell,B
+History,10,Which Indian emperor built the Qutub Minar?,Shah Jahan,Alauddin Khilji,Iltutmish,Aurangzeb,C
+History,10,The battle of Haldighati was fought between Maharana Pratap and?,Akbar,Babur,Shah Jahan,Aurangzeb,A
+History,10,Who discovered the sea route to India?,Vasco da Gama,Christopher Columbus,Ferdinand Magellan,Marco Polo,A
+History,10,The site of Nalanda University is in which state?,Bihar,Uttar Pradesh,West Bengal,Odisha,A
+History,10,Who led the Salt March in 1930?,Mahatma Gandhi,Jawaharlal Nehru,Sardar Patel,Subhas Chandra Bose,A
+History,10,The doctrine of Lapse was introduced by which Governor-General?,Lord Dalhousie,Lord Wellesley,Lord Cornwallis,Lord Bentinck,A
+History,10,Which war led to the Treaty of Versailles?,World War I,World War II,Cold War,Crimean War,A
+History,10,Who was the founder of the Mughal Empire?,Akbar,Shah Jahan,Babur,Humayun,C
+History,10,Which council set up by the British included Indian members for the first time in 1861?,Indian Councils Act,Government of India Act,Regulating Act,Charter Act,A
+History,10,Who was the principal architect of the Indian Constitution?,Rajendra Prasad,B. R. Ambedkar,Jawaharlal Nehru,C. Rajagopalachari,B
+History,10,In which year was the Non-Cooperation Movement launched?,1915,1920,1930,1942,B
